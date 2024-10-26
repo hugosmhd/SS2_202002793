@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Fase2_SSRS", "Fase2_SSRS\Fase2_SSRS.rptproj", "{DE8FA2D3-B227-4998-8386-18A98CC4C097}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE8FA2D3-B227-4998-8386-18A98CC4C097}.Debug|Default.ActiveCfg = Debug
+		{DE8FA2D3-B227-4998-8386-18A98CC4C097}.Debug|Default.Build.0 = Debug
+		{DE8FA2D3-B227-4998-8386-18A98CC4C097}.Debug|Default.Deploy.0 = Debug
+		{DE8FA2D3-B227-4998-8386-18A98CC4C097}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{DE8FA2D3-B227-4998-8386-18A98CC4C097}.DebugLocal|Default.Build.0 = DebugLocal
+		{DE8FA2D3-B227-4998-8386-18A98CC4C097}.Release|Default.ActiveCfg = Release
+		{DE8FA2D3-B227-4998-8386-18A98CC4C097}.Release|Default.Build.0 = Release
+		{DE8FA2D3-B227-4998-8386-18A98CC4C097}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {670A828C-0A51-4ABB-A6C2-A7EAC5E0F588}
+	EndGlobalSection
+EndGlobal

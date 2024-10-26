@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hugom\\source\\repos\\Fase2_SSAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5694BC2-C2F4-4CB6-B763-13526D043E71}|Fase2_SSAS\\Fase2_SSAS.dwproj|C:\\Users\\hugom\\source\\repos\\Fase2_SSAS\\Fase2_SSAS\\CuboVenta.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{B5694BC2-C2F4-4CB6-B763-13526D043E71}|Fase2_SSAS\\Fase2_SSAS.dwproj|solutionrelative:Fase2_SSAS\\CuboVenta.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 20,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CuboVenta.cube [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hugom\\source\\repos\\Fase2_SSAS\\Fase2_SSAS\\CuboVenta.cube",
+              "RelativeDocumentMoniker": "Fase2_SSAS\\CuboVenta.cube",
+              "ToolTip": "C:\\Users\\hugom\\source\\repos\\Fase2_SSAS\\Fase2_SSAS\\CuboVenta.cube [Dise\u00F1o]",
+              "RelativeToolTip": "Fase2_SSAS\\CuboVenta.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T05:11:08.729Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
